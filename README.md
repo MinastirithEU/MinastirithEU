@@ -17,5 +17,3 @@
 [![](https://visitcount.itsvg.in/api?id=cankyl&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Snake animation](https://github.com/cankyl/cankyl/blob/output/github-contribution-grid-snake.svg)
